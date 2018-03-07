@@ -1,0 +1,1 @@
+obj = File('/tmp/file.txt')
