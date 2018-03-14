@@ -1,0 +1,3 @@
+strat of file#1
+
+end of file#1
